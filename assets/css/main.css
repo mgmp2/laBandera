@@ -1,8 +1,9 @@
+
+/*-----------------PRIMERA PARTE y GENERAL-----------------*/
 h1 {
   text-align: center;
   text-transform: uppercase;
 }
-/*-----------------PRIMERA PARTE-----------------*/
 #contenedor {
   width: 600px;
   overflow: auto;
@@ -22,4 +23,9 @@ h1 {
   width: 150px;
   height: 150px;
   background: red;
+}
+/*-----------------SECOND PARTE-----------------*/
+
+#secondPart > #contenedor * {
+    float: left;
 }
