@@ -9,6 +9,7 @@ h1 {
   overflow: auto;
   border: 2px solid black;
 }
+
 .yellow {
   background: yellow;
   width: 150px;
@@ -28,4 +29,8 @@ h1 {
 
 #secondPart > #contenedor * {
     float: left;
+}
+/*-----------------TERCERA PARTE-----------------*/
+#thirdPart > #contenedor * {
+  float: right;
 }
