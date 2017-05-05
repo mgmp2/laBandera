@@ -1,10 +1,10 @@
-    /*-----------------PRIMERA PARTE-----------------*/
+    /*-----------------TERCERA PARTE-----------------*/
   #contenedor {
   width: 600px;
   overflow: auto;
   border: 2px solid black;
 }
-#contenedor * {
+#thirdPart > #contenedor * {
   float: right;
 }
 .yellow {
