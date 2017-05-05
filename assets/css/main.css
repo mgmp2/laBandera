@@ -1,20 +1,26 @@
-#contenedor {
+    /*-----------------PRIMERA PARTE-----------------*/
+  #contenedor {
   width: 600px;
-  height: 600px;
+  overflow: auto;
   border: 2px solid black;
+
+}
+#contenedor * {
+    float: left;
 }
 .yellow {
   background: yellow;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
 }
 .blue{
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   background: blue;
 }
 .red {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   background: red;
 }
+/*-----------------SEGUNDA PARTE-----------------*/
