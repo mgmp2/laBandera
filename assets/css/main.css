@@ -4,6 +4,9 @@
   overflow: auto;
   border: 2px solid black;
 }
+#contenedor * {
+  float: right;
+}
 .yellow {
   background: yellow;
   width: 150px;
