@@ -6,7 +6,7 @@
   border: 2px solid black;
 
 }
-#contenedor * {
+#secondPart > #contenedor * {
     float: left;
 }
 .yellow {
