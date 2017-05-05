@@ -1,0 +1,20 @@
+#contenedor {
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+}
+.yellow {
+  background: yellow;
+  width: 200px;
+  height: 200px;
+}
+.blue{
+  width: 200px;
+  height: 200px;
+  background: blue;
+}
+.red {
+  width: 200px;
+  height: 200px;
+  background: red;
+}
