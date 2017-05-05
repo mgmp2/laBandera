@@ -1,5 +1,9 @@
-    /*-----------------PRIMERA PARTE-----------------*/
-  #contenedor {
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+/*-----------------PRIMERA PARTE-----------------*/
+#contenedor {
   width: 600px;
   overflow: auto;
   border: 2px solid black;
